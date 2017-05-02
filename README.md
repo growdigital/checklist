@@ -6,3 +6,6 @@ Some things
 * WCAG
 * PageSpeed
 * Lighthouse
+* Devices
+* RSS feed validator  
+  http://www.feedvalidator.org/check?url=https://www.groundwork.rocks/rss.xml
