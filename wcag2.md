@@ -1,1 +1,0 @@
-# WCAG2 Checklist
